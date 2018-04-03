@@ -6,7 +6,7 @@
 		
 	//typed activate
     $('.header-inner h6').typed({
-        strings: ["Grapich Designer", "UI/UX  Designer", "Photography"],
+        strings: ["Pattern Recognition", "Machine Learning", "Data Analysis"],
         loop: true,
         startDelay: 1000,
         backDelay: 1000,
